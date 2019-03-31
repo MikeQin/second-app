@@ -20,8 +20,10 @@ git push -u origin master
 
 ### Pre-requisite: One-time Setup
 
+```
 $ git config --global user.email "MyEmail@company.com"
 $ git config --global user.name "MyGitUserName"
+```
 
 ### Step 1: Initialize git repository in github
 
